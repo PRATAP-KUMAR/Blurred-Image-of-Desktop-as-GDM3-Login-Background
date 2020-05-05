@@ -41,7 +41,7 @@ echo '@import url("resource:///org/gnome/shell/theme/original.css");
   #lockDialogGroup {
   background: '#042320' url('file://$dest/../blur.png');
   background-repeat: no-repeat;
-  background-size: cover;;
+  background-size: cover;
   background-position: center; }' > $dest/gdm3.css
 
 echo '<?xml version="1.0" encoding="UTF-8"?>
